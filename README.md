@@ -5,7 +5,7 @@ An interactive Power BI dashboard built on the Classic Models relational dataset
 
 ## 📊 Dashboard Preview
 
-![Dashboard Demo](screenshots/dashboard-demo.gif)
+![Dashboard Demo](classic-model-dashboard-demo.gif)
 
 ## 🛠️ Tools & Techniques
 - **Power BI Desktop** – Report design & publishing
